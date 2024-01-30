@@ -22,7 +22,7 @@ This project is a backend implementation of a blog platform. It features user au
 4. Set up a MongoDB database and add URI to `.env` file as `DATABASE_URL=your_database_uri`.
 5. Start the server by running `nodemon index.js` or `npm start`.
 
-6. Open http://localhost:9000/ in your web browser to access the application.   
+6. Open http://localhost:8080/ in your web browser to access the application.   
 API Endpoints
 
 7. Authentication
